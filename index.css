@@ -1,14 +1,69 @@
-.grid
-{
-    display:grid;
-    grid-template-rows:50% 33% 70% 20%;
-    font-display: center;;
-}
+
 div{
     font-display: center;
 }
 .t1
 {
-    margin-left: 300;
-    background-color: grey;
+    
+    background-color: grey ;
+    height: 100;
+    width: 1455;
+    padding-top: 50;
+    border:3px gray;
+    text-align: center;
 }
+.t3
+{
+    background-color: grey ;
+    height: 50;
+    
+    padding-top: 40;
+    border:3px gray;
+    text-align: center;
+}
+.bord
+{
+ columns: 3;
+ width:100%;
+}
+.t4{
+    background-color: grey ;
+    height: 100;
+    width: 100%;
+    padding-block: 40%;
+
+    box-sizing: 5;
+    text-align: center;
+}
+.t5
+{
+    background-color: grey ;
+    height: 100;
+    width: 100%;
+  
+    padding-block: 40%;
+    border:3px gray;
+    text-align: center;
+}
+.t6
+{
+    background-color: grey ;
+    height: 100;
+    width: 100%;
+   
+    border:3px gray;
+    padding-block: 40%;
+    text-align: center;
+}
+.t7
+{
+    background-color: grey ;
+    height: 50;
+    
+    padding-top: 30;
+    border:3px gray;
+    text-align: center;
+}
+
+
+
