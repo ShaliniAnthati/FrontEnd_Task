@@ -1,0 +1,14 @@
+.grid
+{
+    display:grid;
+    grid-template-rows:50% 33% 70% 20%;
+    font-display: center;;
+}
+div{
+    font-display: center;
+}
+.t1
+{
+    margin-left: 300;
+    background-color: grey;
+}
